@@ -1,5 +1,5 @@
 pragma solidity ^0.8.10;
-// SPDX-License-Identifier: UNLICENSED
+//please remove the social media account
 
 // Contract by CryptoJames
 // Telegram & Twitter @cryptojames98

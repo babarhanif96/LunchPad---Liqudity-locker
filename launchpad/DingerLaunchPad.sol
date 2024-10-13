@@ -1,8 +1,7 @@
 pragma solidity ^0.8.10;
 //please remove the social media account
 
-// Contract by CryptoJames
-// Telegram & Twitter @cryptojames98
+
 
 import "@openzeppelin/contracts/security/ReentrancyGuard.sol";
 import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
